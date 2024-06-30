@@ -1,0 +1,17 @@
+[
+  {
+    "model": "api_act.activity",
+    "pk": 1,
+    "fields": {
+      "topic": "�����Ѵ�����չ",
+      "description": "�����Ѵ�����չ � �Ҵ�˭� ʧ��� �����Һ���˹�������",
+      "acti_image": "����.jpg",
+      "start_regis": "2022-01-30T09:12:52Z",
+      "end_regis": "2022-01-30T09:12:53Z",
+      "start_act": "2022-01-30T09:12:54Z",
+      "end_act": "2022-01-30T09:12:55Z",
+      "is_regis": false,
+      "member_limit": 50
+    }
+  }
+]

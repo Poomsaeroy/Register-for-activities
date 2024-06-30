@@ -1,0 +1,40 @@
+.card{
+    transform: scale(1)
+}
+
+
+.card:hover{
+    transform: scale(1.05)
+}
+
+.card_inner{
+    transform: scale(1);
+    background-color:#a9d9ff;
+}
+
+.card_inner:hover{
+    transform: scale(1.025);
+    background-color: #a9d9ff;
+    box-shadow: 5px 10px 20px 5px rgba(0,0,0,0.5) !important;
+}
+
+.textmenubar {
+    font-size: 18px;
+}
+
+.textmenubar:hover {
+    animation: headtext 1s;
+    font-size: 25px;
+}
+
+@keyframes headtext{
+    0%{
+        font-size: 20px;
+    }
+    30%{
+        font-size: 26px;
+    }
+    100%{
+        font-size: 25px;
+    }
+}

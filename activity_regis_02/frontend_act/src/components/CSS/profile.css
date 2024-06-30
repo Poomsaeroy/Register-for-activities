@@ -1,0 +1,58 @@
+         .move {
+         position: absolute;
+         right: 100px;
+         width: 10000px;
+         padding: 0px;
+     }
+     
+     Card {
+         width: auto;
+         height: auto;
+     }
+     
+     .ter {
+         position: absolute;
+         right: 1200px;
+     }
+     
+     .ac {
+         position: absolute;
+         right: 590px;
+     }
+     
+     @media only screen and (orientation:portrait) {
+         .con {
+             position: absolute;
+             top: auto;
+             left: auto;
+             display: block;
+             position: absolute;
+         }
+         .com {
+             width: auto;
+         }
+     }
+     
+     .propicja {
+         display: block;
+         margin-left: auto;
+         margin-right: auto;
+         width: 50%;
+     }
+     
+    .Crop {
+         width: 500px;
+         height: 450px;
+         background-color: rgb(145, 250, 192);
+     }
+     
+     .Cardhis {
+         display: flex;
+         justify-content: center;
+         flex-direction: row;
+         margin-left: auto;
+         margin-right: auto;
+     }
+
+    
+ 

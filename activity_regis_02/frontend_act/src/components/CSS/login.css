@@ -1,0 +1,56 @@
+/* @import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap'); */
+
+* {
+    /* box-sizing: border-box; */
+    font-family: 'Athiti', sans-serif;
+}
+.ActivityRE {
+    color: rgb(146, 19, 19);
+    text-align: center;
+}
+
+.btn-submit {
+  background-color: #fdcb00;
+  display: block;
+  height: 8vh;
+  color:#000;
+  margin: min(3vh,0px);
+  padding: 0 50px;
+  width: min(11vw,90px);
+  /* font-size:3.7vw; */
+  font-size: min(4vw, 35px);
+  text-decoration: none;
+  border-radius:5px;
+  border: 1px solid black;
+  
+}
+
+/* @media screen and (min-width: 1000px) {
+  .btn-submit {
+     font-size: 35px;
+  }
+} */
+
+.btn-submit:hover {
+  color : #fff;
+  background : #05e010;
+  box-shadow:0 0 10px rgba(6, 15, 0, 0.1);
+ 
+}
+
+.login {
+  background-image: url('../../media/login_bg_image.png');
+  background-size: cover;
+  position: fixed;
+  min-width: 100%;
+  min-height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  /* height: '100vh';
+  width: '100vw'; */
+}
+
+.errormessage {
+  color: rgb(146, 19, 19);
+}

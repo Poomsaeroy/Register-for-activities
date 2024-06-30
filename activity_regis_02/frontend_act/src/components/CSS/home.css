@@ -1,0 +1,28 @@
+ .home{
+    /* background-image: url('../../media/test.jpg'); */
+    background-size: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: #dd5757;
+    padding: 10px 10px 10px 10px;
+    animation: head 1.5s;
+    /* height : 100px; */
+  }
+@keyframes head{
+  0%{
+    color: #a9d9ff;
+    background: #a9d9ff;
+  }
+  100%{
+    background: #dd5757;
+  }
+}
+  
+  /* .home{
+    background-image: url('../../media/test.jpg');
+    background-size: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  } */

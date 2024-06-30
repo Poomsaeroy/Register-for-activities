@@ -1,0 +1,25 @@
+        .contact {
+            background-size: 100%;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            background: #dd5757;
+            padding: 10px 10px 10px 10px;      
+            animation: head 1.5s;
+        }
+        
+        .text {
+            font-size: larger;
+            text-transform: uppercase;
+            text-indent: 10%;
+        }
+
+        @keyframes head{
+            0%{
+              color: #a9d9ff;
+              background: #a9d9ff;
+            }
+            100%{
+              background: #dd5757;
+            }
+        }

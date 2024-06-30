@@ -1,0 +1,35 @@
+.submit {
+    background-color: #65a7bc;
+    height: 4vh;
+    color:#000;
+    margin: 2;
+    padding: 4 100px;
+    width: 15vw;
+    font-size:1rem;
+    text-decoration: none;
+    border-radius:9px;
+    border: 1px solid black;
+  }
+.submit:hover {
+    color : #fff;
+    background : #05e010;
+    box-shadow:0 0 10px rgba(0, 0, 0, 0.1);
+  }
+
+.cancel_submit {
+    background-color: #ff1515;
+    height: 4vh;
+    color:#000;
+    margin: 2;
+    padding: 4 100px;
+    width: 15vw;
+    font-size:1rem;
+    text-decoration: none;
+    border-radius:9px;
+    border: 1px solid black;
+}
+.cancel_submit:hover {
+    color : #fff;
+    background : #05e010;
+    box-shadow:0 0 10px rgba(0, 0, 0, 0.1);
+}

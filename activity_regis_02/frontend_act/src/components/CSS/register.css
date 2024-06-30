@@ -1,0 +1,12 @@
+.regis {
+    background-image: url('../../media/register.png');
+    background-size: cover;
+    position: fixed;
+    min-width: 100%;
+    min-height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* height: '100vh';
+    width: '100vw'; */
+}

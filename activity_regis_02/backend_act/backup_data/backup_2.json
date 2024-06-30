@@ -1,0 +1,74 @@
+[
+    {
+        "model": "api_act.activity",
+        "pk": 1,
+        "fields": {
+            "topic": "ทาสีวัดดูยูมีน",
+            "description": "ทาสีวัดดูยูมีน ณ หาดใหญ่ สงขลา ทะเลสาบเกาะหนูเกาะแมว",
+            "act_place": "วอทดูยูมีน",
+            "acti_image": "2640.jpg",
+            "start_regis": "2022-01-              -30T09:12:52Z",
+            "end_regis": "2022-01-30T09:12:53Z",
+            "start_act": "2022-01-30T09:12:54Z",
+            "end_act": "2022-01-30T09:12:55Z",
+            "is_regis": false,
+            "member_limit": 50,
+            "feedback_link": "https://gitlab.psu.ac.th/6410110518/activity_regis_02/-/commits/main/",
+            "regis_type": 2
+        }
+    },
+    {
+        "model": "api_act.activity",
+        "pk": 2,
+        "fields": {
+            "topic": "Watt Do you mean",
+            "description": "Taki taki Watt do you mean",
+            "act_place": "วัดดูยูมีน",
+            "acti_image": "977.jpg",
+            "sta   art_regis": "2022-01-30T10:18:12Z",
+            "end_regis": "2022-01-30T10:18:13Z",
+            "start_act": "2022-01-30T10:18:14Z",
+            "end_act": "2022-01-30T10:18:14Z",
+            "is_regis": false,
+            "member_limit": 50,
+            "feedback_link": "https://stackoverflow.com/questions/755857/default-value-for-field-in-django-model",
+            "regis_type": 2
+        }
+    },
+    {
+        "model": "api_act.activity",
+        "pk": 3,
+        "fields": {
+            "topic": "ทาสีแดงบนแก้มเธอ",
+            "description": "君の虜になってしまえばきっとこの夏は充実するのもっとと\r\n噂のドリーミンガール忘れないででも気持ちを伝えてしまえばいつか\r\nこの夢は覚めてしまうだろうな青い影が揺れる街角\r\n君の虜になってしまえばきっとこの夏は充実するのもっと\r\n噂のドリーミンガール忘れないで\r\n君のと... 君の-\r\n君のと... 君のと... 君のと... 君のと...\r\n君のと... 君のと... 君のと...",
+            "act_place": "แก้มเธอ",
+            "acti_image": "Alex-Louis-Armstrong.jpg",
+            "start_regis": "2022-02-24T08:05:46Z",
+            "end_regis": "2022-02-24T08:05:47Z",
+            "startt_act": "2022-02-24T08:05:48Z",
+            "end_act": "2022-02-24T08:05:49Z",
+            "is_regis": false,
+            "member_limit": 1,
+            "feedback_link": "https://docs.djangoproject.com/en/4.0/ref/django-admin/#django-admin-loaddata",
+            "regis_type": 1
+        }
+    },
+    {
+        "model": "api_act.activity",
+        "pk": 4,
+        "fields": {
+            "topic": "ปลูกป่าโกงกางที่สวนลุม",
+            "description": "สวนลุมพินี หรือที่นิยมเรียกสั้น ๆ ว่า สวนลุม เป็นสวนสาธารณะระดับย่าน และถือเป็นสวนสาธารณะแห่งแรกของประเทศไทย เปิดให้บริการตั้งแต่ป                            ปี พ.ศ. 2468 ตั้งอยู่บนถนนพระรามที่ 4 ล้อมรอบด้วยถนนวิทยุ ถนนราชดำริ และถนนสารสิน แขวงลุมพินี เขตปทุมวัน กรุงเทพมหานคร ก่อสร้างในสมัยรัชกาลที่ 7 ในที่ดินเดิมเนื้อที่ 360 ไร่ ณ ทุ่งศาลาแดง ที่พระบาทสมเด็จพระมงกุฎเกล้าเจ้าอยู่หัว                                            วพระราชทานสำหรับสร้าง \"สยามรัฐพิพิธภัณฑ์\" เพื่อจัดแสดงสินค้าไทยเป็นครั้งแรก และจัดให้เป็น \"สวนสาธารณะ\" สำหรับประชาชน พร้อมทั้งพระราชทานนามว่า \"สวนลุมพินี\" ซึ่งเป็นชื่อสถานที่ประสูติของพระพุทธเจ้าในประเทศเนปาล แต่พระองค์เส                                      สด็จสวรรคตก่อนจึงไม่แล้วเสร็จ\r\n\r\nพระองค์เสด็จหรือไม่เสด็จก็ยังสร้างไม่เสร็จซักที",
+            "act_place": "สวนลุมพินี",
+            "acti_image": "81vmnUr6XL._RI_-1024x768.jpg",
+            "start_regis": "2022-02-24T08:07:17Z",
+            "end_regis": "2022-02-24T08:                    :07:17Z",
+            "start_act": "2022-02-24T08:07:19Z",
+            "end_act": "2022-02-24T08:07:20Z",
+            "is_regis": false,
+            "member_limit": 10,
+            "feedback_link": "https://docs.djangoproject.com/en/4.0/ref/django-admin/#django-admin-dumpdata",
+            "regis_type": 1
+        }
+    }
+]
